@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "eilgoal": {
+      "hosting": {
+        "eilgoal": [
+          "eilgoal"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "eilgoal"
+  }
+}
